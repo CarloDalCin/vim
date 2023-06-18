@@ -23,7 +23,7 @@ git clone https://github.com/CarloDalCin/vim
 
 
 after all that you should have a tree like this
-<sup>
+<pre>
 HOME/
 ├── .vimrc
 └── .vim/
@@ -33,4 +33,4 @@ HOME/
         ├── .../
         ├── .../
         └── ...
-</sup>
+</pre>
