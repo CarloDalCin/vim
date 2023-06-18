@@ -2,7 +2,7 @@
 my .vimrc config
 
 1. install [vim-plug](https://github.com/junegunn/vim-plug)
->if you are in linux just copy this command in the terminal:
+  if you are in linux just copy this command in the terminal:
 
 ```sh
 curl -fLo ~/.vim/autoload/plug.vim --create-dirs \
@@ -14,4 +14,4 @@ curl -fLo ~/.vim/autoload/plug.vim --create-dirs \
 ```sh
 git clone https://github.com/CarloDalCin/vim
 ```
-you have to run it into HOME (~)
+  you have to run it into HOME (~)
