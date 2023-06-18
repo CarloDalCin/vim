@@ -10,11 +10,12 @@ curl -fLo ~/.vim/autoload/plug.vim --create-dirs \
 ```
 
 2. to copy my configuration run this command:
+>you **have to** run it into **HOME** (~)
 
 ```sh
 git clone https://github.com/CarloDalCin/vim
 ```
->you **have to** run it into **HOME** (~)
+
 
 3. run `PlugInstall` inside vim
 4. if you want to use [YouCompleteMe](https://vimawesome.com/plugin/youcompleteme) just search for "valloric/youcompleteme" inside the downloaded ".vimrc" file and uncomment it
