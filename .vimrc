@@ -26,7 +26,7 @@ set guicursor+=a:blinkon0
 call plug#begin()
 Plug 'sheerun/vim-polyglot'
 Plug 'jiangmiao/auto-pairs'
-Plug 'valloric/youcompleteme'
+"Plug 'valloric/youcompleteme'    "uncomment if you wan use it
 Plug 'tpope/vim-commentary'
 " git
 Plug 'tpope/vim-fugitive'
